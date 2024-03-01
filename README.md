@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Nelushi</h1>
+<h1 align="center">Hello World! I'm Nelushi 👋🏽</h1>
 <h3 align="center">A passionate 26 years old frontend developer from Italy</h3>
 
 - 🌱 I’m currently learning **Javascript, React, Git**
