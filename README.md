@@ -1,7 +1,6 @@
-<div display="flex" justify-content="space-between">
-<div>
 <h1 align="center">Hello World! I'm Nelushi 👋🏽</h1>
 <h3 align="center">A passionate 26 years old frontend developer from Italy</h3>
+ <img src="programmer.png" alt="illustration" align="right" width="30%" height="auto">
 
 - 🌱 I’m currently learning **Javascript, React, Git**
 
@@ -23,9 +22,3 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>
-</div>
-<div>
-   <img src="programmer.png" alt="illustration" max-width="80%" height="auto">
-</div>
-</div>
-
