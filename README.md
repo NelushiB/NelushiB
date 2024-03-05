@@ -25,7 +25,7 @@
 </p>
 </div>
 <div>
-   [illustration](programmer.png)
+   ![illustration](programmer.png)
 </div>
 </div>
 
