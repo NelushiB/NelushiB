@@ -25,7 +25,7 @@
 </p>
 </div>
 <div>
-   <img src="programmer.png" alt="illustration" width="80%">
+   <img src="programmer.png" alt="illustration" max-width="80%" height="auto">
 </div>
 </div>
 
