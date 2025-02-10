@@ -1,11 +1,11 @@
 <h1 align="center">Hello World! I'm Nelushi 👋🏽</h1>
-<h3 align="center">A passionate 26 years old frontend developer from Italy</h3>
+<h3 align="center">A passionate 27 years old frontend developer from Italy</h3>
 &nbsp;
 <img src="developer.png" alt="illustration" align="right" width="40%" height="auto">
 
-- 🌱 I’m currently learning **Javascript, React, Git**
+- 🌱 I’m currently learning ** React & c# **
 
-- ⚡ Things I like ** Manga & Anime, videogames, books, cats and food **
+- ⚡ Things I like ** Manga & Anime, videogames, books, travels, cats and food **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
